@@ -1,0 +1,1470 @@
+[
+    {
+        "name": "Central African Republic",
+        "topLevelDomain": [
+            ".cf"
+        ],
+        "alpha2Code": "CF",
+        "alpha3Code": "CAF",
+        "callingCodes": [
+            "236"
+        ],
+        "capital": "Bangui",
+        "altSpellings": [
+            "CF",
+            "Central African Republic",
+            "République centrafricaine"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "population": 4998000,
+        "latlng": [
+            7.0,
+            21.0
+        ],
+        "demonym": "Central African",
+        "area": 622984.0,
+        "gini": 56.3,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "CMR",
+            "TCD",
+            "COD",
+            "COG",
+            "SSD",
+            "SDN"
+        ],
+        "nativeName": "Ködörösêse tî Bêafrîka",
+        "numericCode": "140",
+        "currencies": [
+            {
+                "code": "XAF",
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "sg",
+                "iso639_2": "sag",
+                "name": "Sango",
+                "nativeName": "yângâ tî sängö"
+            }
+        ],
+        "translations": {
+            "de": "Zentralafrikanische Republik",
+            "es": "República Centroafricana",
+            "fr": "République centrafricaine",
+            "ja": "中央アフリカ共和国",
+            "it": "Repubblica Centrafricana",
+            "br": "República Centro-Africana",
+            "pt": "República Centro-Africana",
+            "nl": "Centraal-Afrikaanse Republiek",
+            "hr": "Srednjoafrička Republika",
+            "fa": "جمهوری آفریقای مرکزی"
+        },
+        "flag": "https://restcountries.eu/data/caf.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "CAF"
+    },
+    {
+        "name": "Chad",
+        "topLevelDomain": [
+            ".td"
+        ],
+        "alpha2Code": "TD",
+        "alpha3Code": "TCD",
+        "callingCodes": [
+            "235"
+        ],
+        "capital": "N'Djamena",
+        "altSpellings": [
+            "TD",
+            "Tchad",
+            "Republic of Chad",
+            "République du Tchad"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "population": 14497000,
+        "latlng": [
+            15.0,
+            19.0
+        ],
+        "demonym": "Chadian",
+        "area": 1284000.0,
+        "gini": 39.8,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "CMR",
+            "CAF",
+            "LBY",
+            "NER",
+            "NGA",
+            "SSD"
+        ],
+        "nativeName": "Tchad",
+        "numericCode": "148",
+        "currencies": [
+            {
+                "code": "XAF",
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            }
+        ],
+        "translations": {
+            "de": "Tschad",
+            "es": "Chad",
+            "fr": "Tchad",
+            "ja": "チャド",
+            "it": "Ciad",
+            "br": "Chade",
+            "pt": "Chade",
+            "nl": "Tsjaad",
+            "hr": "Čad",
+            "fa": "چاد"
+        },
+        "flag": "https://restcountries.eu/data/tcd.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "CHA"
+    },
+    {
+        "name": "Chile",
+        "topLevelDomain": [
+            ".cl"
+        ],
+        "alpha2Code": "CL",
+        "alpha3Code": "CHL",
+        "callingCodes": [
+            "56"
+        ],
+        "capital": "Santiago",
+        "altSpellings": [
+            "CL",
+            "Republic of Chile",
+            "República de Chile"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 18191900,
+        "latlng": [
+            -30.0,
+            -71.0
+        ],
+        "demonym": "Chilean",
+        "area": 756102.0,
+        "gini": 52.1,
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "nativeName": "Chile",
+        "numericCode": "152",
+        "currencies": [
+            {
+                "code": "CLP",
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            }
+        ],
+        "translations": {
+            "de": "Chile",
+            "es": "Chile",
+            "fr": "Chili",
+            "ja": "チリ",
+            "it": "Cile",
+            "br": "Chile",
+            "pt": "Chile",
+            "nl": "Chili",
+            "hr": "Čile",
+            "fa": "شیلی"
+        },
+        "flag": "https://restcountries.eu/data/chl.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "PA",
+                "name": "Pacific Alliance",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "Alianza del Pacífico"
+                ]
+            },
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Unión de Naciones Suramericanas",
+                    "União de Nações Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ],
+        "cioc": "CHI"
+    },
+    {
+        "name": "China",
+        "topLevelDomain": [
+            ".cn"
+        ],
+        "alpha2Code": "CN",
+        "alpha3Code": "CHN",
+        "callingCodes": [
+            "86"
+        ],
+        "capital": "Beijing",
+        "altSpellings": [
+            "CN",
+            "Zhōngguó",
+            "Zhongguo",
+            "Zhonghua",
+            "People's Republic of China",
+            "中华人民共和国",
+            "Zhōnghuá Rénmín Gònghéguó"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 1377422166,
+        "latlng": [
+            35.0,
+            105.0
+        ],
+        "demonym": "Chinese",
+        "area": 9640011.0,
+        "gini": 47.0,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "AFG",
+            "BTN",
+            "MMR",
+            "HKG",
+            "IND",
+            "KAZ",
+            "PRK",
+            "KGZ",
+            "LAO",
+            "MAC",
+            "MNG",
+            "PAK",
+            "RUS",
+            "TJK",
+            "VNM"
+        ],
+        "nativeName": "中国",
+        "numericCode": "156",
+        "currencies": [
+            {
+                "code": "CNY",
+                "name": "Chinese yuan",
+                "symbol": "¥"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "zh",
+                "iso639_2": "zho",
+                "name": "Chinese",
+                "nativeName": "中文 (Zhōngwén)"
+            }
+        ],
+        "translations": {
+            "de": "China",
+            "es": "China",
+            "fr": "Chine",
+            "ja": "中国",
+            "it": "Cina",
+            "br": "China",
+            "pt": "China",
+            "nl": "China",
+            "hr": "Kina",
+            "fa": "چین"
+        },
+        "flag": "https://restcountries.eu/data/chn.svg",
+        "regionalBlocs": [],
+        "cioc": "CHN"
+    },
+    {
+        "name": "Christmas Island",
+        "topLevelDomain": [
+            ".cx"
+        ],
+        "alpha2Code": "CX",
+        "alpha3Code": "CXR",
+        "callingCodes": [
+            "61"
+        ],
+        "capital": "Flying Fish Cove",
+        "altSpellings": [
+            "CX",
+            "Territory of Christmas Island"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 2072,
+        "latlng": [
+            -10.5,
+            105.66666666
+        ],
+        "demonym": "Christmas Island",
+        "area": 135.0,
+        "gini": null,
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "borders": [],
+        "nativeName": "Christmas Island",
+        "numericCode": "162",
+        "currencies": [
+            {
+                "code": "AUD",
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Weihnachtsinsel",
+            "es": "Isla de Navidad",
+            "fr": "Île Christmas",
+            "ja": "クリスマス島",
+            "it": "Isola di Natale",
+            "br": "Ilha Christmas",
+            "pt": "Ilha do Natal",
+            "nl": "Christmaseiland",
+            "hr": "Božićni otok",
+            "fa": "جزیره کریسمس"
+        },
+        "flag": "https://restcountries.eu/data/cxr.svg",
+        "regionalBlocs": [],
+        "cioc": ""
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "topLevelDomain": [
+            ".cc"
+        ],
+        "alpha2Code": "CC",
+        "alpha3Code": "CCK",
+        "callingCodes": [
+            "61"
+        ],
+        "capital": "West Island",
+        "altSpellings": [
+            "CC",
+            "Territory of the Cocos (Keeling) Islands",
+            "Keeling Islands"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 550,
+        "latlng": [
+            -12.5,
+            96.83333333
+        ],
+        "demonym": "Cocos Islander",
+        "area": 14.0,
+        "gini": null,
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "borders": [],
+        "nativeName": "Cocos (Keeling) Islands",
+        "numericCode": "166",
+        "currencies": [
+            {
+                "code": "AUD",
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Kokosinseln",
+            "es": "Islas Cocos o Islas Keeling",
+            "fr": "Îles Cocos",
+            "ja": "ココス（キーリング）諸島",
+            "it": "Isole Cocos e Keeling",
+            "br": "Ilhas Cocos",
+            "pt": "Ilhas dos Cocos",
+            "nl": "Cocoseilanden",
+            "hr": "Kokosovi Otoci",
+            "fa": "جزایر کوکوس"
+        },
+        "flag": "https://restcountries.eu/data/cck.svg",
+        "regionalBlocs": [],
+        "cioc": ""
+    },
+    {
+        "name": "Colombia",
+        "topLevelDomain": [
+            ".co"
+        ],
+        "alpha2Code": "CO",
+        "alpha3Code": "COL",
+        "callingCodes": [
+            "57"
+        ],
+        "capital": "Bogotá",
+        "altSpellings": [
+            "CO",
+            "Republic of Colombia",
+            "República de Colombia"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "population": 48759958,
+        "latlng": [
+            4.0,
+            -72.0
+        ],
+        "demonym": "Colombian",
+        "area": 1141748.0,
+        "gini": 55.9,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": [
+            "BRA",
+            "ECU",
+            "PAN",
+            "PER",
+            "VEN"
+        ],
+        "nativeName": "Colombia",
+        "numericCode": "170",
+        "currencies": [
+            {
+                "code": "COP",
+                "name": "Colombian peso",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            }
+        ],
+        "translations": {
+            "de": "Kolumbien",
+            "es": "Colombia",
+            "fr": "Colombie",
+            "ja": "コロンビア",
+            "it": "Colombia",
+            "br": "Colômbia",
+            "pt": "Colômbia",
+            "nl": "Colombia",
+            "hr": "Kolumbija",
+            "fa": "کلمبیا"
+        },
+        "flag": "https://restcountries.eu/data/col.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "PA",
+                "name": "Pacific Alliance",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "Alianza del Pacífico"
+                ]
+            },
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Unión de Naciones Suramericanas",
+                    "União de Nações Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ],
+        "cioc": "COL"
+    },
+    {
+        "name": "Comoros",
+        "topLevelDomain": [
+            ".km"
+        ],
+        "alpha2Code": "KM",
+        "alpha3Code": "COM",
+        "callingCodes": [
+            "269"
+        ],
+        "capital": "Moroni",
+        "altSpellings": [
+            "KM",
+            "Union of the Comoros",
+            "Union des Comores",
+            "Udzima wa Komori",
+            "al-Ittiḥād al-Qumurī"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "population": 806153,
+        "latlng": [
+            -12.16666666,
+            44.25
+        ],
+        "demonym": "Comoran",
+        "area": 1862.0,
+        "gini": 64.3,
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "borders": [],
+        "nativeName": "Komori",
+        "numericCode": "174",
+        "currencies": [
+            {
+                "code": "KMF",
+                "name": "Comorian franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ar",
+                "iso639_2": "ara",
+                "name": "Arabic",
+                "nativeName": "العربية"
+            },
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            }
+        ],
+        "translations": {
+            "de": "Union der Komoren",
+            "es": "Comoras",
+            "fr": "Comores",
+            "ja": "コモロ",
+            "it": "Comore",
+            "br": "Comores",
+            "pt": "Comores",
+            "nl": "Comoren",
+            "hr": "Komori",
+            "fa": "کومور"
+        },
+        "flag": "https://restcountries.eu/data/com.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            },
+            {
+                "acronym": "AL",
+                "name": "Arab League",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "جامعة الدول العربية",
+                    "Jāmiʻat ad-Duwal al-ʻArabīyah",
+                    "League of Arab States"
+                ]
+            }
+        ],
+        "cioc": "COM"
+    },
+    {
+        "name": "Congo",
+        "topLevelDomain": [
+            ".cg"
+        ],
+        "alpha2Code": "CG",
+        "alpha3Code": "COG",
+        "callingCodes": [
+            "242"
+        ],
+        "capital": "Brazzaville",
+        "altSpellings": [
+            "CG",
+            "Congo-Brazzaville"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "population": 4741000,
+        "latlng": [
+            -1.0,
+            15.0
+        ],
+        "demonym": "Congolese",
+        "area": 342000.0,
+        "gini": 47.3,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AGO",
+            "CMR",
+            "CAF",
+            "COD",
+            "GAB"
+        ],
+        "nativeName": "République du Congo",
+        "numericCode": "178",
+        "currencies": [
+            {
+                "code": "XAF",
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "ln",
+                "iso639_2": "lin",
+                "name": "Lingala",
+                "nativeName": "Lingála"
+            }
+        ],
+        "translations": {
+            "de": "Kongo",
+            "es": "Congo",
+            "fr": "Congo",
+            "ja": "コンゴ共和国",
+            "it": "Congo",
+            "br": "Congo",
+            "pt": "Congo",
+            "nl": "Congo [Republiek]",
+            "hr": "Kongo",
+            "fa": "کنگو"
+        },
+        "flag": "https://restcountries.eu/data/cog.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "CGO"
+    },
+    {
+        "name": "Congo (Democratic Republic of the)",
+        "topLevelDomain": [
+            ".cd"
+        ],
+        "alpha2Code": "CD",
+        "alpha3Code": "COD",
+        "callingCodes": [
+            "243"
+        ],
+        "capital": "Kinshasa",
+        "altSpellings": [
+            "CD",
+            "DR Congo",
+            "Congo-Kinshasa",
+            "DRC"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "population": 85026000,
+        "latlng": [
+            0.0,
+            25.0
+        ],
+        "demonym": "Congolese",
+        "area": 2344858.0,
+        "gini": null,
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ],
+        "borders": [
+            "AGO",
+            "BDI",
+            "CAF",
+            "COG",
+            "RWA",
+            "SSD",
+            "TZA",
+            "UGA",
+            "ZMB"
+        ],
+        "nativeName": "République démocratique du Congo",
+        "numericCode": "180",
+        "currencies": [
+            {
+                "code": "CDF",
+                "name": "Congolese franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "ln",
+                "iso639_2": "lin",
+                "name": "Lingala",
+                "nativeName": "Lingála"
+            },
+            {
+                "iso639_1": "kg",
+                "iso639_2": "kon",
+                "name": "Kongo",
+                "nativeName": "Kikongo"
+            },
+            {
+                "iso639_1": "sw",
+                "iso639_2": "swa",
+                "name": "Swahili",
+                "nativeName": "Kiswahili"
+            },
+            {
+                "iso639_1": "lu",
+                "iso639_2": "lub",
+                "name": "Luba-Katanga",
+                "nativeName": "Tshiluba"
+            }
+        ],
+        "translations": {
+            "de": "Kongo (Dem. Rep.)",
+            "es": "Congo (Rep. Dem.)",
+            "fr": "Congo (Rép. dém.)",
+            "ja": "コンゴ民主共和国",
+            "it": "Congo (Rep. Dem.)",
+            "br": "RD Congo",
+            "pt": "RD Congo",
+            "nl": "Congo [DRC]",
+            "hr": "Kongo, Demokratska Republika",
+            "fa": "جمهوری کنگو"
+        },
+        "flag": "https://restcountries.eu/data/cod.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "COD"
+    },
+    {
+        "name": "Cook Islands",
+        "topLevelDomain": [
+            ".ck"
+        ],
+        "alpha2Code": "CK",
+        "alpha3Code": "COK",
+        "callingCodes": [
+            "682"
+        ],
+        "capital": "Avarua",
+        "altSpellings": [
+            "CK",
+            "Kūki 'Āirani"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 18100,
+        "latlng": [
+            -21.23333333,
+            -159.76666666
+        ],
+        "demonym": "Cook Islander",
+        "area": 236.0,
+        "gini": null,
+        "timezones": [
+            "UTC-10:00"
+        ],
+        "borders": [],
+        "nativeName": "Cook Islands",
+        "numericCode": "184",
+        "currencies": [
+            {
+                "code": "NZD",
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            },
+            {
+                "code": "CKD",
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Cookinseln",
+            "es": "Islas Cook",
+            "fr": "Îles Cook",
+            "ja": "クック諸島",
+            "it": "Isole Cook",
+            "br": "Ilhas Cook",
+            "pt": "Ilhas Cook",
+            "nl": "Cookeilanden",
+            "hr": "Cookovo Otočje",
+            "fa": "جزایر کوک"
+        },
+        "flag": "https://restcountries.eu/data/cok.svg",
+        "regionalBlocs": [],
+        "cioc": "COK"
+    },
+    {
+        "name": "Costa Rica",
+        "topLevelDomain": [
+            ".cr"
+        ],
+        "alpha2Code": "CR",
+        "alpha3Code": "CRI",
+        "callingCodes": [
+            "506"
+        ],
+        "capital": "San José",
+        "altSpellings": [
+            "CR",
+            "Republic of Costa Rica",
+            "República de Costa Rica"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "population": 4890379,
+        "latlng": [
+            10.0,
+            -84.0
+        ],
+        "demonym": "Costa Rican",
+        "area": 51100.0,
+        "gini": 50.7,
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "nativeName": "Costa Rica",
+        "numericCode": "188",
+        "currencies": [
+            {
+                "code": "CRC",
+                "name": "Costa Rican colón",
+                "symbol": "₡"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            }
+        ],
+        "translations": {
+            "de": "Costa Rica",
+            "es": "Costa Rica",
+            "fr": "Costa Rica",
+            "ja": "コスタリカ",
+            "it": "Costa Rica",
+            "br": "Costa Rica",
+            "pt": "Costa Rica",
+            "nl": "Costa Rica",
+            "hr": "Kostarika",
+            "fa": "کاستاریکا"
+        },
+        "flag": "https://restcountries.eu/data/cri.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CAIS",
+                "name": "Central American Integration System",
+                "otherAcronyms": [
+                    "SICA"
+                ],
+                "otherNames": [
+                    "Sistema de la Integración Centroamericana,"
+                ]
+            }
+        ],
+        "cioc": "CRC"
+    },
+    {
+        "name": "Croatia",
+        "topLevelDomain": [
+            ".hr"
+        ],
+        "alpha2Code": "HR",
+        "alpha3Code": "HRV",
+        "callingCodes": [
+            "385"
+        ],
+        "capital": "Zagreb",
+        "altSpellings": [
+            "HR",
+            "Hrvatska",
+            "Republic of Croatia",
+            "Republika Hrvatska"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 4190669,
+        "latlng": [
+            45.16666666,
+            15.5
+        ],
+        "demonym": "Croatian",
+        "area": 56594.0,
+        "gini": 33.7,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "BIH",
+            "HUN",
+            "MNE",
+            "SRB",
+            "SVN"
+        ],
+        "nativeName": "Hrvatska",
+        "numericCode": "191",
+        "currencies": [
+            {
+                "code": "HRK",
+                "name": "Croatian kuna",
+                "symbol": "kn"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "hr",
+                "iso639_2": "hrv",
+                "name": "Croatian",
+                "nativeName": "hrvatski jezik"
+            }
+        ],
+        "translations": {
+            "de": "Kroatien",
+            "es": "Croacia",
+            "fr": "Croatie",
+            "ja": "クロアチア",
+            "it": "Croazia",
+            "br": "Croácia",
+            "pt": "Croácia",
+            "nl": "Kroatië",
+            "hr": "Hrvatska",
+            "fa": "کرواسی"
+        },
+        "flag": "https://restcountries.eu/data/hrv.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "CRO"
+    },
+    {
+        "name": "Cuba",
+        "topLevelDomain": [
+            ".cu"
+        ],
+        "alpha2Code": "CU",
+        "alpha3Code": "CUB",
+        "callingCodes": [
+            "53"
+        ],
+        "capital": "Havana",
+        "altSpellings": [
+            "CU",
+            "Republic of Cuba",
+            "República de Cuba"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 11239004,
+        "latlng": [
+            21.5,
+            -80.0
+        ],
+        "demonym": "Cuban",
+        "area": 109884.0,
+        "gini": null,
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "borders": [],
+        "nativeName": "Cuba",
+        "numericCode": "192",
+        "currencies": [
+            {
+                "code": "CUC",
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            {
+                "code": "CUP",
+                "name": "Cuban peso",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            }
+        ],
+        "translations": {
+            "de": "Kuba",
+            "es": "Cuba",
+            "fr": "Cuba",
+            "ja": "キューバ",
+            "it": "Cuba",
+            "br": "Cuba",
+            "pt": "Cuba",
+            "nl": "Cuba",
+            "hr": "Kuba",
+            "fa": "کوبا"
+        },
+        "flag": "https://restcountries.eu/data/cub.svg",
+        "regionalBlocs": [],
+        "cioc": "CUB"
+    },
+    {
+        "name": "Curaçao",
+        "topLevelDomain": [
+            ".cw"
+        ],
+        "alpha2Code": "CW",
+        "alpha3Code": "CUW",
+        "callingCodes": [
+            "599"
+        ],
+        "capital": "Willemstad",
+        "altSpellings": [
+            "CW",
+            "Curacao",
+            "Kòrsou",
+            "Country of Curaçao",
+            "Land Curaçao",
+            "Pais Kòrsou"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 154843,
+        "latlng": [
+            12.116667,
+            -68.933333
+        ],
+        "demonym": "Dutch",
+        "area": 444.0,
+        "gini": null,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [],
+        "nativeName": "Curaçao",
+        "numericCode": "531",
+        "currencies": [
+            {
+                "code": "ANG",
+                "name": "Netherlands Antillean guilder",
+                "symbol": "ƒ"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "nl",
+                "iso639_2": "nld",
+                "name": "Dutch",
+                "nativeName": "Nederlands"
+            },
+            {
+                "iso639_1": "pa",
+                "iso639_2": "pan",
+                "name": "(Eastern) Punjabi",
+                "nativeName": "ਪੰਜਾਬੀ"
+            },
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Curaçao",
+            "es": null,
+            "fr": "Curaçao",
+            "ja": null,
+            "it": "Curaçao",
+            "br": "Curaçao",
+            "pt": "Curaçao",
+            "nl": "Curaçao",
+            "hr": null,
+            "fa": "کوراسائو"
+        },
+        "flag": "https://restcountries.eu/data/cuw.svg",
+        "regionalBlocs": [],
+        "cioc": ""
+    },
+    {
+        "name": "Cyprus",
+        "topLevelDomain": [
+            ".cy"
+        ],
+        "alpha2Code": "CY",
+        "alpha3Code": "CYP",
+        "callingCodes": [
+            "357"
+        ],
+        "capital": "Nicosia",
+        "altSpellings": [
+            "CY",
+            "Kýpros",
+            "Kıbrıs",
+            "Republic of Cyprus",
+            "Κυπριακή Δημοκρατία",
+            "Kıbrıs Cumhuriyeti"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 847000,
+        "latlng": [
+            35.0,
+            33.0
+        ],
+        "demonym": "Cypriot",
+        "area": 9251.0,
+        "gini": null,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "GBR"
+        ],
+        "nativeName": "Κύπρος",
+        "numericCode": "196",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "el",
+                "iso639_2": "ell",
+                "name": "Greek (modern)",
+                "nativeName": "ελληνικά"
+            },
+            {
+                "iso639_1": "tr",
+                "iso639_2": "tur",
+                "name": "Turkish",
+                "nativeName": "Türkçe"
+            },
+            {
+                "iso639_1": "hy",
+                "iso639_2": "hye",
+                "name": "Armenian",
+                "nativeName": "Հայերեն"
+            }
+        ],
+        "translations": {
+            "de": "Zypern",
+            "es": "Chipre",
+            "fr": "Chypre",
+            "ja": "キプロス",
+            "it": "Cipro",
+            "br": "Chipre",
+            "pt": "Chipre",
+            "nl": "Cyprus",
+            "hr": "Cipar",
+            "fa": "قبرس"
+        },
+        "flag": "https://restcountries.eu/data/cyp.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "CYP"
+    },
+    {
+        "name": "Czech Republic",
+        "topLevelDomain": [
+            ".cz"
+        ],
+        "alpha2Code": "CZ",
+        "alpha3Code": "CZE",
+        "callingCodes": [
+            "420"
+        ],
+        "capital": "Prague",
+        "altSpellings": [
+            "CZ",
+            "Česká republika",
+            "Česko"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 10558524,
+        "latlng": [
+            49.75,
+            15.5
+        ],
+        "demonym": "Czech",
+        "area": 78865.0,
+        "gini": 26.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "AUT",
+            "DEU",
+            "POL",
+            "SVK"
+        ],
+        "nativeName": "Česká republika",
+        "numericCode": "203",
+        "currencies": [
+            {
+                "code": "CZK",
+                "name": "Czech koruna",
+                "symbol": "Kč"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "cs",
+                "iso639_2": "ces",
+                "name": "Czech",
+                "nativeName": "čeština"
+            },
+            {
+                "iso639_1": "sk",
+                "iso639_2": "slk",
+                "name": "Slovak",
+                "nativeName": "slovenčina"
+            }
+        ],
+        "translations": {
+            "de": "Tschechische Republik",
+            "es": "República Checa",
+            "fr": "République tchèque",
+            "ja": "チェコ",
+            "it": "Repubblica Ceca",
+            "br": "República Tcheca",
+            "pt": "República Checa",
+            "nl": "Tsjechië",
+            "hr": "Češka",
+            "fa": "جمهوری چک"
+        },
+        "flag": "https://restcountries.eu/data/cze.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "CZE"
+    },
+	{
+		"name": "Denmark",
+		"topLevelDomain": [".dk"],
+		"alpha2Code": "DK",
+		"alpha3Code": "DNK",
+		"callingCodes": ["45"],
+		"capital": "Copenhagen",
+		"altSpellings": [
+			"DK",
+			"Danmark",
+			"Kingdom of Denmark",
+			"Kongeriget Danmark"
+		],
+		"region": "Europe",
+		"subregion": "Northern Europe",
+		"population": 5717014,
+		"latlng": [56.0, 10.0],
+		"demonym": "Danish",
+		"area": 43094.0,
+		"gini": 24.0,
+		"timezones": [
+			"UTC-04:00",
+			"UTC-03:00",
+			"UTC-01:00",
+			"UTC",
+			"UTC+01:00"
+		],
+		"borders": ["DEU"],
+		"nativeName": "Danmark",
+		"numericCode": "208",
+		"currencies": [
+			{
+				"code": "DKK",
+				"name": "Danish krone",
+				"symbol": "kr"
+			}
+		],
+		"languages": [
+			{
+				"iso639_1": "da",
+				"iso639_2": "dan",
+				"name": "Danish",
+				"nativeName": "dansk"
+			}
+		],
+		"translations": {
+			"de": "Dänemark",
+			"es": "Dinamarca",
+			"fr": "Danemark",
+			"ja": "デンマーク",
+			"it": "Danimarca",
+			"br": "Dinamarca",
+			"pt": "Dinamarca",
+			"nl": "Denemarken",
+			"hr": "Danska",
+			"fa": "دانمارک"
+		},
+		"flag": "https://restcountries.eu/data/dnk.svg",
+		"regionalBlocs": [
+			{
+				"acronym": "EU",
+				"name": "European Union",
+				"otherAcronyms": [],
+				"otherNames": []
+			}
+		],
+		"cioc": "DEN"
+	}
+]
