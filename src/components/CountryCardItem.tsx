@@ -1,5 +1,4 @@
 import React from "react";
-import { Service } from "types/service";
 import { Country } from "types/country";
 
 import styled from "styled-components";
@@ -7,19 +6,6 @@ import styled from "styled-components";
 interface Props {
 	country: Country;
 }
-
-const Grid = styled.div`
-	display: grid;
-	width: 100%;
-	//grid-template-columns: repeat(4, 1fr);
-	grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
-	gap: 2rem;
-	grid-gap: 2rem;
-
-	@media (max-width: 368px) {
-		grid-template-columns: repeat(1, 1fr);
-	}
-`;
 
 const CountryCard = styled.div`
 	position: relative;

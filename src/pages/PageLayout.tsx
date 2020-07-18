@@ -4,13 +4,7 @@ import styled from 'styled-components';
 import Header from "components/Header";
 import { FilterRegion } from "components/FilterRegion";
 import { Search } from "components/Search";
-
-import { ThemeProvider } from "contexts/ThemeContext";
-import { usePostCountry } from "hooks/usePostCountry";
 import { useApiControls } from "hooks/useApiControls";
-import { CountryList } from "components/CountryList";
-
-
 
 interface Props {
 	children: React.ReactNode
@@ -35,7 +29,6 @@ const FilterWrapper = styled.div`
 
 export const PageLayout: React.FC<Props> = ({ children }) => {
 	const {
-		apiQuery: apiQueryHome,
 		searchByCountryName,
 		searchByRegion
 	} = useApiControls()
