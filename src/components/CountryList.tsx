@@ -39,11 +39,11 @@ export const CountryList: React.FC<Props> = ({ service, showDetails }) => {
 			{service.payload && service.payload.length
 				? service.payload.map((country: Country, index: number) => {
 						return (
-							<Link to={`/details/${country.alpha3Code}`}>
-								<CountryCardItem
-									country={country}
-									key={index}
-								/>
+							<Link
+								to={`/details/${country.alpha3Code}`}
+								key={index}
+							>
+								<CountryCardItem country={country} />
 							</Link>
 						);
 				  })

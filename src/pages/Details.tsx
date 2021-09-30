@@ -6,18 +6,22 @@ import { CountryCardItem } from "components/CountryCardItem";
 
 interface Props {}
 
+interface RouteParams {
+	id: string;
+}
+
 const searchByCode = (code: string) => {
 	return constructApiQuery({ type: "code", query: code });
 };
 
 export const Details: React.FC<Props> = () => {
-	let { id } = useParams();
+	const params = useParams<RouteParams>();
 
-	searchByCode(id);
+	searchByCode(params.id);
 
-	const homeService = usePostCountry(searchByCode(id));
+	const homeService = usePostCountry(searchByCode(params.id));
 
-	if(homeService.status === 'error') {
+	if (homeService.status === "error") {
 		return null;
 	}
 
